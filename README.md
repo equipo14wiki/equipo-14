@@ -1,2 +1,2 @@
-# wiki-equipo-14
+# equipo-14
 wiki
